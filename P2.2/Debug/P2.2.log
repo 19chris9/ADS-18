@@ -1,0 +1,8 @@
+﻿  Tree.cpp
+c:\users\haus\source\repos\ads18\p2.2\tree.cpp(10): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+c:\users\haus\source\repos\ads18\p2.2\tree.cpp(13): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+c:\users\haus\source\repos\ads18\p2.2\tree.cpp(18): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+c:\users\haus\source\repos\ads18\p2.2\tree.cpp(22): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\users\haus\source\repos\ads18\p2.2\tree.cpp(24): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+c:\users\haus\source\repos\ads18\p2.2\tree.cpp(29): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+  P2.2.vcxproj -> C:\Users\Haus\source\repos\ADS18\Debug\P2.2.exe
