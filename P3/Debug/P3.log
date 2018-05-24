@@ -1,0 +1,6 @@
+﻿  MyAlgorithms.cpp
+c:\users\haus\source\repos\ads18\p3\myalgorithms.cpp(130): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\haus\source\repos\ads18\p3\myalgorithms.cpp(137): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  main.cpp
+  Code wird generiert...
+  P3.vcxproj -> C:\Users\Haus\source\repos\ADS18\Debug\P3.exe
