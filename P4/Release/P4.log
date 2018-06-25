@@ -1,0 +1,10 @@
+﻿  Graph.cpp
+c:\users\haus\source\repos\ads18\p4\graph.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\haus\source\repos\ads18\p4\graph.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\haus\source\repos\ads18\p4\graph.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  99 of 431 functions (23.0%) were compiled, the rest were copied from previous compilation.
+    92 functions were new in current compilation
+    46 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  P4.vcxproj -> C:\Users\Haus\source\repos\ADS18\Release\P4.exe

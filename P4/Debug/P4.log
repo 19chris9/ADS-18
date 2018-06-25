@@ -1,0 +1,4 @@
+﻿  KruskalMST.cpp
+c:\users\haus\source\repos\ads18\p4\kruskalmst.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\haus\source\repos\ads18\p4\kruskalmst.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  P4.vcxproj -> C:\Users\Haus\source\repos\ADS18\Debug\P4.exe
